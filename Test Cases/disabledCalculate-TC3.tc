@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>disabledCalculate-TC3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>131f7b12-0668-4f0f-95f8-c4023901b2b9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0b250dbe-10cf-4d5f-aace-abc40c829ec8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>39f8997e-73ec-45d5-81c8-708d64f66df5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>66158efe-e33a-4215-8b1c-16c662567657</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'5000000'</defaultValue>
+      <description></description>
+      <id>0b250dbe-10cf-4d5f-aace-abc40c829ec8</id>
+      <masked>false</masked>
+      <name>penghasilan_total</name>
+   </variable>
+   <variable>
+      <defaultValue>'6000000'</defaultValue>
+      <description></description>
+      <id>39f8997e-73ec-45d5-81c8-708d64f66df5</id>
+      <masked>false</masked>
+      <name>pengeluaran</name>
+   </variable>
+   <variable>
+      <defaultValue>'4'</defaultValue>
+      <description></description>
+      <id>66158efe-e33a-4215-8b1c-16c662567657</id>
+      <masked>false</masked>
+      <name>jangka_waktu</name>
+   </variable>
+</TestCaseEntity>

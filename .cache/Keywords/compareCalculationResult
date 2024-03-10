@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "D826729B12E833CC0720117841A446B4",
+  "keywordClasses": [
+    {
+      "name": "compareCalculationResult",
+      "keywordMethods": [
+        {
+          "name": "resultWeb",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

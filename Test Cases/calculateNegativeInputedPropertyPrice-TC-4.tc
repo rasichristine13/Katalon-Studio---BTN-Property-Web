@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>calculateNegativeInputedPropertyPrice-TC-4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9426ad26-942f-4373-af9f-d7a1c6c13225</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c6824b13-8994-4092-aeee-c8a9fb2f604c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>489438cc-f360-40dc-b71f-fae0725d2d52</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>940aab03-9e8b-438a-92b0-c333a0d7e391</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'-10000000'</defaultValue>
+      <description></description>
+      <id>c6824b13-8994-4092-aeee-c8a9fb2f604c</id>
+      <masked>false</masked>
+      <name>penghasilan_total</name>
+   </variable>
+   <variable>
+      <defaultValue>'3000000'</defaultValue>
+      <description></description>
+      <id>489438cc-f360-40dc-b71f-fae0725d2d52</id>
+      <masked>false</masked>
+      <name>pengeluaran</name>
+   </variable>
+   <variable>
+      <defaultValue>'20'</defaultValue>
+      <description></description>
+      <id>940aab03-9e8b-438a-92b0-c333a0d7e391</id>
+      <masked>false</masked>
+      <name>jangka_waktu</name>
+   </variable>
+</TestCaseEntity>
